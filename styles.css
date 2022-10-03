@@ -1,0 +1,32 @@
+body {
+  background-color: #243D25;
+  text-align: center;
+  margin: 0;
+}
+
+h1 {
+  margin-top: 80px;
+  font-size: 100px;
+  font-family: 'Poppins',sans-serif;
+  color: white;
+}
+
+img {
+  border-radius: 20%;
+  margin-bottom: 30px;
+}
+img:hover {
+  height: 400px;
+}
+
+.dice1 {
+  padding: 30px;
+  margin-top: 100px;
+  height: 350px;
+}
+
+.dice2 {
+  padding: 30px;
+  margin-top: 100px;
+  height: 350px;
+}
